@@ -43,7 +43,7 @@ function App() {
             <div className="flex items-center space-x-4">
               <Bell className="h-6 w-6 cursor-pointer hover:text-red-200 transition-colors" />
               <div className="bg-red-700 px-4 py-2 rounded-lg">
-                <span className="text-sm font-medium">Dr. Maria Silva</span>
+                <span className="text-sm font-medium">Dra. Janete Orestes</span>
               </div>
             </div>
           </div>
